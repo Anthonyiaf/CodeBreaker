@@ -1,3 +1,5 @@
+SCHOOL PROJECT
+
 Step 1: install node.js (maybe v8.15.1)
     sudo apt-get update
     sudo apt-get install curl
