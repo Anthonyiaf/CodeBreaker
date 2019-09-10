@@ -1,0 +1,14 @@
+{
+  "name": "codebreaker",
+  "version": "1.0.0",
+  "description": "Step 1: install node.js (maybe v8.15.1)\r     sudo apt-get update\r     sudo apt-get install curl\r     curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -\r     sudo apt-get install nodejs",
+  "main": "code_breaker_client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
